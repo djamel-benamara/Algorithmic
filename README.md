@@ -1,2 +1,2 @@
-# Algorithmie
+# Algorithmic
 # Some algorithms I made.
